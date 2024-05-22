@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InterviewAPIApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Start">Start</string>
+    <string name="Name">Name:  </string>
+    <string name="EmailAddress">Email Address:  </string>
+    <string name="Search">Search</string>
+    <string name="User_Name">Enter User Name</string>
+    <string name="phone">Phone No.:  </string>
+    <string name="address">Address: </string>
+
+    <string name="street">Street: </string>
+    <string name="suite">Suite: </string>
+    <string name="City">City: </string>
+    <string name="Zip">Zip: </string>
+    <string name="Lat">Latitude: </string>
+    <string name="Long">Longitude: </string>
+</resources>
